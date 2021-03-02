@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5D0AE449-3870-4544-8F77-87A41C43B88A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "parstagram/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - fbbf5597a6e7a77a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.userNameField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - 2a0992189e29db76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.userNameField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - 461f4fc24e7a024b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.userNameField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - d3fd25c8268e159f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.userNameField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - d97c4cee5cfb5432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; parstagram.LoginViewController"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "A4717039-0AED-42ED-916F-CC5C9711B2FC - c4226018333e4529"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "parstagram.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;parstagram.LoginViewController&gt;"
+                  moduleName = "parstagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eduardobarreto-mendoza/Desktop/iOS_Dev/parstagram/parstagram/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
